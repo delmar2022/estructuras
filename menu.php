@@ -15,7 +15,8 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="estructura1.php">IF, ELSE</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="estructura2.php">ELSEIF</a></li>
+            <li><a class="dropdown-item" href="estructura3.php">SWITCH</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>

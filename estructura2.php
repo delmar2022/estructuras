@@ -14,18 +14,25 @@
   <div class="container"><br>
     <div class="row justify-content-center">
         <div class="col-6 p-5 bg-white shadow-lg rounded">
-        <h3>Estructura IF, ELSE</h3>
+        <h3>Estructura ELSEIF</h3>
             <hr>
             <?php 
-            $x = 80;
-            if ($x >=100) 
-            {
-              echo "Mayor o Igual de 100";
+            $a = 25;
+            $b = 50;
+            if ($a== $b) {
+                echo "La variable A es igual a la variable B";
+            } 
+            elseif ($a > $b) {
+                echo "La variable A es mayor a la variable B";
+            }elseif ($a < $b) {
+                echo "La variable A es menor a la variable B";
             }
-            else 
-            {
-              echo "Menor de 100";
+            else {
+                echo "La variable B es diferente a la variable A";
             }
+            
+
+           
             
             ?>
 
