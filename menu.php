@@ -30,7 +30,10 @@
             Sentencias de control Repetitivas
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="estructura1.php">WHILE</a></li>
+            <li><a class="dropdown-item" href="estructura6.php">WHILE</a></li>
+            <li><a class="dropdown-item" href="estructura7.php"> DO WHILE</a></li>
+            <li><a class="dropdown-item" href="estructura8.php"> FOR</a></li>
+            <li><a class="dropdown-item" href="estructura9.php"> ARRAY</a></li>
             <li>
               <hr class="dropdown-divider">
             </li>
